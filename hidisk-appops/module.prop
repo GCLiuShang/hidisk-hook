@@ -1,0 +1,6 @@
+id=hidisk_appops
+name=HiDisk AppOps
+version=1.0
+versionCode=1
+author=GhostLock
+description=开机为 com.huawei.hidisk 保持 MANAGE_EXTERNAL_STORAGE=allow，使云相册缩略图可写入 /sdcard/.photoShare。

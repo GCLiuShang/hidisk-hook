@@ -1,0 +1,14 @@
+# Build outputs
+build/
+*.apk
+*.zip
+!release/*.apk
+!release/*.zip
+# Local secrets
+*.keystore
+*.jks
+local.properties
+.gradle/
+.idea/
+# OS
+.DS_Store
